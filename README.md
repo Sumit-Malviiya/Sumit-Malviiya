@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sumit-Malviiya
-- 👀 I’m interested in Software Development field.
+- 👀 I’m interested in Software Development.
 - 🌱 I’m currently learning nodejs, expressjs, mongodb, backend etc.
 - 💞️ I’m looking to collaborate on ...
 - 📫 Email: Sumitmalviya949@gmail.com
